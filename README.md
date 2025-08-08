@@ -9,7 +9,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/saif90834/AtliQ_Excel_Report/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/Naveen-S6/AtliQ_Hardware_Sales_Report_Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/saif90834/AtliQ_Excel_Report/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
